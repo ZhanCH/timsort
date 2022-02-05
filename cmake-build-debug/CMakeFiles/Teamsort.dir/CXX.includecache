@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Data structures and algorithms/Timsort/Timsort.cpp
+Timsort.h
+D:/Data structures and algorithms/Timsort/Timsort.h
+
+D:/Data structures and algorithms/Timsort/Timsort.h
+iostream
+D:/Data structures and algorithms/Timsort/iostream
+cstdlib
+D:/Data structures and algorithms/Timsort/cstdlib
+sys/time.h
+-
+

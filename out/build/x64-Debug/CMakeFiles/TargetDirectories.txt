@@ -1,0 +1,3 @@
+D:/Data structures and algorithms/Timsort/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/Data structures and algorithms/Timsort/out/build/x64-Debug/CMakeFiles/Teamsort.dir
+D:/Data structures and algorithms/Timsort/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+"D:\CLion\CLion 2021.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Teamsort.dir/objects.a
+D:\C\mingw\mingw\mingw64\bin\ar.exe cr CMakeFiles\Teamsort.dir/objects.a @CMakeFiles\Teamsort.dir\objects1.rsp
+D:\C\mingw\mingw\mingw64\bin\g++.exe -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\Teamsort.dir/objects.a -Wl,--no-whole-archive -o Teamsort.exe -Wl,--out-implib,libTeamsort.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Teamsort.dir\linklibs.rsp
